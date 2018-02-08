@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'BTYoutubePlayer_Example' do
+  pod 'BTYoutubePlayer', :path => '../'
+
+  target 'BTYoutubePlayer_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
