@@ -5,6 +5,11 @@ A Youtube Video Player for iOS built with Swift.
 ![screenshot_1_opt](https://user-images.githubusercontent.com/16632644/35981266-daa30ae6-0d12-11e8-8594-11c4064ee639.png)
 ![screenshot_2_opt](https://user-images.githubusercontent.com/16632644/35981299-ed4f29cc-0d12-11e8-8804-344c501ed92b.png)
 
+## 📦 Requirements
+- iOS 8+
+- Xcode 9.0+
+- Swift 4.0
+
 
 ## 👨🏻‍💻 Installation
 
@@ -16,8 +21,7 @@ pod 'BTYoutubePlayer'
 ```
 
 ## 💻 Usage
-
-First of all import BTYoutubePlayer
+It only takes a few simple steps to install and setup BEMCheckBox to your project. First of all import BTYoutubePlayer
 
 ```ruby
 import 'BTYoutubePlayer'
@@ -38,17 +42,21 @@ BTYoutubePlayer.loadWith(id: "AJtDXIazrMo", target: self)
 
 ## 💁🏻‍♂️ Example
 
-To run the example project, clone the repo, and run `pod install` from the Example directory first.
+The iOS Sample App included with this project demonstrates one way to correctly setup and use BTYoutubePlayer
+
 
 ## 🙋🏻‍♂️ Author
 
-BhavikThummar, bhavikthummar9797@yahoo.com
-[Website](http://bhavikthummar.com)
+[Bhavik Thummar](http://bhavikthummar.com), bhavikthummar9797@yahoo.com
+
+
+## 📬 Support
+
+Open an issue or shoot me an email. Check out previous issues to see if your's has already been solved. (I would prefer an issue over an email. But will still happily respond to an email.)
 
 ## 💰 Contribution
 
-Feel free to fork the project and send us a pull-request! 😎
+Feel free to fork the project and send me a pull-request! 😎
 
 ## 📜 License
-
-BTYoutubePlayer is available under the MIT license. See the LICENSE file for more info.
+You are free to make changes and use this in either personal or commercial projects. Attribution is not required, but highly appreciated. A little "Thanks!" (or something to that affect) is always welcome. If you use BTYoutubePlayer in your app, please let us know!. BTYoutubePlayer is available under the MIT license. See the LICENSE file for more info.
