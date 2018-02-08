@@ -28,7 +28,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		007EC51A8800D6D964FC4866 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		007EC51A8800D6D964FC4866 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		2A9D20DDC7C4115F00AD02B0 /* Pods-BTYoutubePlayer_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-BTYoutubePlayer_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-BTYoutubePlayer_Tests/Pods-BTYoutubePlayer_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		4D4806D7115D2B6D077DF831 /* Pods-BTYoutubePlayer_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-BTYoutubePlayer_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-BTYoutubePlayer_Tests/Pods-BTYoutubePlayer_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		607FACD01AFB9204008FA782 /* BTYoutubePlayer_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BTYoutubePlayer_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -42,9 +42,9 @@
 		607FACEA1AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		607FACEB1AFB9204008FA782 /* Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests.swift; sourceTree = "<group>"; };
 		70E37C4C9C7B6B1EBC4813B9 /* Pods-BTYoutubePlayer_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-BTYoutubePlayer_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-BTYoutubePlayer_Example/Pods-BTYoutubePlayer_Example.release.xcconfig"; sourceTree = "<group>"; };
-		7F3916FC36909286307CA60A /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		7F3916FC36909286307CA60A /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		8D2C82B3DF79E23083C1C064 /* Pods_BTYoutubePlayer_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_BTYoutubePlayer_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		906D85FDE9A2A2EBA306BCBA /* BTYoutubePlayer.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = BTYoutubePlayer.podspec; path = ../BTYoutubePlayer.podspec; sourceTree = "<group>"; };
+		906D85FDE9A2A2EBA306BCBA /* BTYoutubePlayer.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = BTYoutubePlayer.podspec; path = ../BTYoutubePlayer.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		D7F055FD44B988B437CB4B9C /* Pods-BTYoutubePlayer_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-BTYoutubePlayer_Example.debug.xcconfig"; path = "Pods/Target Support Files/Pods-BTYoutubePlayer_Example/Pods-BTYoutubePlayer_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		F85CA56B8FED9E1502A9678D /* Pods_BTYoutubePlayer_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_BTYoutubePlayer_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */

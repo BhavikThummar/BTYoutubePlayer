@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'BTYoutubePlayer'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of BTYoutubePlayer.'
+  s.summary          = 'BTYoutubePlayer is a YouTube video player for iOS'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -17,24 +17,24 @@ Pod::Spec.new do |s|
 #   * Write the description between the DESC delimiters below.
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
-  s.description      = <<-DESC
-TODO: Add long description of the pod here.
-                       DESC
+s.description      = <<-DESC
+The only official way of playing a YouTube video inside an app is with a web view & the iframe player API. So I wrote this player to play youtube videos using WKWebView & give users a better viewing experience.
+DESC
 
   s.homepage         = 'https://github.com/BhavikThummar/BTYoutubePlayer'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'BhavikThummar' => 'bhavikthummar9797@yahoo.com' }
   s.source           = { :git => 'https://github.com/BhavikThummar/BTYoutubePlayer.git', :tag => s.version.to_s }
-  # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
+  s.social_media_url = 'https://twitter.com/lazy_coderr'
 
   s.ios.deployment_target = '8.0'
 
   s.source_files = 'BTYoutubePlayer/Classes/**/*'
   
-  # s.resource_bundles = {
-  #   'BTYoutubePlayer' => ['BTYoutubePlayer/Assets/*.png']
-  # }
+  s.resource_bundles = {
+    'BTYoutubePlayer' => ['BTYoutubePlayer/Assets/*.png']
+  }
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
   # s.frameworks = 'UIKit', 'MapKit'
