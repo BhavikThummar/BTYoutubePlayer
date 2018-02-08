@@ -21,7 +21,7 @@ pod 'BTYoutubePlayer'
 ```
 
 ## 💻 Usage
-It only takes a few simple steps to install and setup BEMCheckBox to your project. First of all import BTYoutubePlayer
+It only takes a few simple steps to and setup BTYoutubePlayer to your project.  First of all import BTYoutubePlayer
 
 ```ruby
 import 'BTYoutubePlayer'
@@ -47,7 +47,7 @@ The iOS Sample App included with this project demonstrates one way to correctly 
 
 ## 🙋🏻‍♂️ Author
 
-[Bhavik Thummar](http://bhavikthummar.com), bhavikthummar9797@yahoo.com
+[Bhavik Thummar](http://bhavikthummar.com),  Email : bhavikthummar9797@yahoo.com
 
 
 ## 📬 Support
