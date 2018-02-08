@@ -1,10 +1,9 @@
 # BTYoutubePlayer
 
-[![CI Status](http://img.shields.io/travis/BhavikThummar/BTYoutubePlayer.svg?style=flat)](https://travis-ci.org/BhavikThummar/BTYoutubePlayer)
-[![Version](https://img.shields.io/cocoapods/v/BTYoutubePlayer.svg?style=flat)](http://cocoapods.org/pods/BTYoutubePlayer)
-[![License](https://img.shields.io/cocoapods/l/BTYoutubePlayer.svg?style=flat)](http://cocoapods.org/pods/BTYoutubePlayer)
-[![Platform](https://img.shields.io/cocoapods/p/BTYoutubePlayer.svg?style=flat)](http://cocoapods.org/pods/BTYoutubePlayer)
+A Youtube Video Player for iOS built with Swift.
 
+![screenshot_1_opt](https://user-images.githubusercontent.com/16632644/35981266-daa30ae6-0d12-11e8-8594-11c4064ee639.png)
+![screenshot_2_opt](https://user-images.githubusercontent.com/16632644/35981299-ed4f29cc-0d12-11e8-8804-344c501ed92b.png)
 
 
 ## Installation
@@ -29,6 +28,7 @@ Load video with Youtube Url
 ```ruby
 BTYoutubePlayer.loadWith(youtubeUrl: "https://www.youtube.com/watch?v=euCqAq6BRa4", target: self)
 ```
+or
 
 Load video with Youtube ID
 
