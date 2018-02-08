@@ -1,6 +1,6 @@
 import UIKit
 import XCTest
-import BTYoutubePlayer
+
 
 class Tests: XCTestCase {
     

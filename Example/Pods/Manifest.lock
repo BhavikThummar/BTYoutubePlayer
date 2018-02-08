@@ -1,0 +1,12 @@
+PODS:
+  - BTYoutubePlayer (1.0.0)
+
+DEPENDENCIES:
+  - BTYoutubePlayer
+
+SPEC CHECKSUMS:
+  BTYoutubePlayer: f4f783906addb37d7b9a195646f4f3c1b5e6a7d0
+
+PODFILE CHECKSUM: 2e3f2775ed8bf85916b69f2022d8edd7dd1a20d0
+
+COCOAPODS: 1.4.0
