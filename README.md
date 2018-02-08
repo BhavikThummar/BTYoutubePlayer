@@ -15,7 +15,7 @@ it, simply add the following line to your Podfile:
 pod 'BTYoutubePlayer'
 ```
 
-## Usage
+## 💻 Usage
 
 First of all import BTYoutubePlayer
 
@@ -36,19 +36,19 @@ Load video with Youtube ID
 BTYoutubePlayer.loadWith(id: "AJtDXIazrMo", target: self)
 ```
 
-## Example
+## 💁🏻‍♂️ Example
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
 
-## Author
+## 🙋🏻‍♂️ Author
 
 BhavikThummar, bhavikthummar9797@yahoo.com
 [Website](http://bhavikthummar.com)
 
-## Contribution
+## 💰 Contribution
 
 Feel free to fork the project and send us a pull-request! 😎
 
-## License
+## 📜 License
 
 BTYoutubePlayer is available under the MIT license. See the LICENSE file for more info.
