@@ -24,7 +24,7 @@ pod 'BTYoutubePlayer'
 It only takes a few simple steps to and setup BTYoutubePlayer to your project.  First of all import BTYoutubePlayer
 
 ```swift
-import 'BTYoutubePlayer'
+import BTYoutubePlayer
 ```
 
 Load video with Youtube Url
