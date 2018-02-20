@@ -16,27 +16,27 @@ A Youtube Video Player for iOS built with Swift.
 BTYoutubePlayer is available through [CocoaPods](http://cocoapods.org). To install
 it, simply add the following line to your Podfile:
 
-```ruby
+```swift
 pod 'BTYoutubePlayer'
 ```
 
 ## 💻 Usage
 It only takes a few simple steps to and setup BTYoutubePlayer to your project.  First of all import BTYoutubePlayer
 
-```ruby
+```swift
 import 'BTYoutubePlayer'
 ```
 
 Load video with Youtube Url
 
-```ruby
+```swift
 BTYoutubePlayer.loadWith(youtubeUrl: "https://www.youtube.com/watch?v=euCqAq6BRa4", target: self)
 ```
 or
 
 Load video with Youtube ID
 
-```ruby
+```swift
 BTYoutubePlayer.loadWith(id: "AJtDXIazrMo", target: self)
 ```
 
